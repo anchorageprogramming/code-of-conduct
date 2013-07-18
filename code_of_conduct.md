@@ -1,34 +1,40 @@
-PyCon US is a community conference intended for networking and collaboration in the developer community.
+[Event name] is a community event intended for networking and collaboration in the developer community. [Event] is an all-ages event for people from many different backgrounds.
 
-We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by PyCon or not.
+We value the participation of each member of our community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, presenters, exhibitors, and attendees are expected to show respect and courtesy to everyone, regardless of age, gender, sexual orientation, religious or ethnic identity, physical appearance, body size, or ability.
+All delegates, speakers, exhibitors, and volunteers are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event; more information on reporting a Code of Conduct violation is available below, under the heading “Please Contact Us.”
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+All Attendees
+---------------
 
-The Short Version
------------------
+Please show respect for all attendees. In particular:
 
-PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+    Offensive behaviour such as verbal abuse, intimidation, or harassment will not be tolerated.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
+    Remember that all our attendees are here for similar reasons, and do not make assumptions about anyone's interests, skill level, or profession based on their appearance or background.
 
-Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyCon.
+    Remember that “no means no.” If someone asks you to stop speaking about a particular subject, or to leave them alone, please do so.
 
-Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
+    Support your friends and colleagues. If you see someone behaving badly, please let them know that you're not OK with it.
 
-Thank you for helping make this a welcoming, friendly event for all.
+    [Remove if not applicable:] Please consume alcohol responsibly.
+    
+Speakers
+---------
 
-The Longer Version
-------------------
+Please ensure that your presentation does not stigmatise, alienate, or marginalise any individual or group. In particular:
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+    Keep any slide decks G-rated.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+    Anything beyond the occasional mild curse word is not appropriate.
 
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+    While criticism of software, programming practices, etc. is OK, please try to offer constructive improvements or alternatives as part of your talk.
+    Personal criticism and ad hominem attacks are never OK.
+    
+Exhibitors
+------------
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for PyCon.
+[Event] is an all-ages, mixed-gender event. Please make sure your booth and party can be enjoyed by everyone. In particular, overtly sexualised booths or parties, including "booth babes" or hired entertainers in provocative/sexy attire, are not appropriate.
 
-If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 Contact Information
 -------------------
@@ -37,17 +43,14 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
-- Jesse Noller at +1 (978) 212-9863
-- Diana Clarke (co-chair) at +1 (416) 453-3130
-- Jacob Kaplan-Moss (program chair) at +1 (785) 766-2474
-- Ewa Jodlowska (event coordinator) at +1 (773) 599-3845
+- [name] [number] [email]
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 Procedure for Handling Harassment
 ------------------------------------------
-- [Attendee Procedure for incident handling](/2013/about/code-of-conduct/harassment-incidents/)
-- [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+- [Attendee Procedure for incident handling](code-of-conduct/harassment-incidents/)
+- [Staff Procedure for incident handling](code-of-conduct/harassment-incidents-staff/)
 
 License
 -------
