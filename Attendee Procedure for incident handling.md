@@ -2,9 +2,8 @@ This procedure has been adopted from the Ada Initiative's guide titled "[Confere
 
 1\. Keep in mind that all event staff will be wearing a conference t-shirt/button with the word “STAFF”
 on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident.
-All of our staff are informed of the [code of conduct policy](/2013/about/code-of-conduct/) and guide
-for handling harassment at the conference. *There will be a mandatory staff meeting prior to the event
-when this will be reiterated.*
+All of our staff are informed of the [code of conduct policy](https://github.com/anchorageprogramming/code-of-conduct/blob/master/code_of_conduct.md) and guide
+for handling harassment at the conference. 
 
 2\. Report the harassment incident (preferably in writing) to a conference staff member. All reports
 are confidential. Please do not disclose public information about the incident until the staff have
@@ -16,7 +15,7 @@ interview people about the incident. Staff will assist you in writing the report
 
 The important information consists of:
 
-- Identifying information (name/description/badge number) of the participant doing the harassing
+- Identifying information (name/description) of the participant doing the harassing
 - The behavior that was in violation
 - The approximate time of the behavior (if different than the time the report was made)
 - The circumstances surrounding the incident
