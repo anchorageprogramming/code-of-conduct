@@ -8,26 +8,26 @@ All Attendees
 
 Please show respect for all attendees. In particular:
 
-    Offensive behaviour such as verbal abuse, intimidation, or harassment will not be tolerated.
+* Offensive behaviour such as verbal abuse, intimidation, or harassment will not be tolerated.
 
-    Remember that all our attendees are here for similar reasons, and do not make assumptions about anyone's interests, skill level, or profession based on their appearance or background.
+* Remember that all our attendees are here for similar reasons, and do not make assumptions about anyone's interests, skill level, or profession based on their appearance or background.
 
-    Remember that “no means no.” If someone asks you to stop speaking about a particular subject, or to leave them alone, please do so.
+* Remember that “no means no.” If someone asks you to stop speaking about a particular subject, or to leave them alone, please do so.
 
-    Support your friends and colleagues. If you see someone behaving badly, please let them know that you're not OK with it.
+* Support your friends and colleagues. If you see someone behaving badly, please let them know that you're not OK with it.
 
-    [Remove if not applicable:] Please consume alcohol responsibly.
+* [Remove if not applicable:] Please consume alcohol responsibly.
     
 Speakers
 ---------
 
 Please ensure that your presentation does not stigmatise, alienate, or marginalise any individual or group. In particular:
 
-    Keep any slide decks G-rated.
+* Keep any slide decks G-rated.
 
-    Anything beyond the occasional mild curse word is not appropriate.
+*  Anything beyond the occasional mild curse word is not appropriate.
 
-    While criticism of software, programming practices, etc. is OK, please try to offer constructive improvements or alternatives as part of your talk.
+*  While criticism of software, programming practices, etc. is OK, please try to offer constructive improvements or alternatives as part of your talk.
     Personal criticism and ad hominem attacks are never OK.
     
 Exhibitors
@@ -39,7 +39,7 @@ Exhibitors
 Contact Information
 -------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "PyCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Jesse Noller.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the staff/organizing committee.
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
