@@ -1,7 +1,7 @@
 [Event name] is a community event intended for networking and collaboration in the developer community. [Event] is an all-ages event for people from many different backgrounds.
 
 We value the participation of each member of our community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, presenters, exhibitors, and attendees are expected to show respect and courtesy to everyone, regardless of age, gender, sexual orientation, religious or ethnic identity, physical appearance, body size, or ability.
-All delegates, speakers, exhibitors, and volunteers are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event; more information on reporting a Code of Conduct violation is available below, under the heading “Please Contact Us.”
+All delegates, speakers, exhibitors, and volunteers are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event; more information on reporting a Code of Conduct violation is available below, under the heading “Contact Information.”
 
 All Attendees
 ---------------
