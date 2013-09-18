@@ -8,7 +8,7 @@ All Attendees
 
 Please show respect for all attendees. In particular:
 
-* Offensive behaviour such as verbal abuse, intimidation, or harassment will not be tolerated.
+* Offensive behavior such as verbal abuse, intimidation, or harassment will not be tolerated.
 
 * Remember that all our attendees are here for similar reasons, and do not make assumptions about anyone's interests, skill level, or profession based on their appearance or background.
 
