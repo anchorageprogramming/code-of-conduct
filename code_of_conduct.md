@@ -1,4 +1,4 @@
-We value the participation of each member of our community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, presenters and attendees are expected to show respect and courtesy to everyone, regardless of age, gender, sexual orientation, religious or ethnic identity, physical appearance, body size, or ability. We do not tolerate harassment of event participants in any form. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organizers.
+We value the participation of each member of our community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, presenters and attendees are expected to show respect and courtesy to everyone, regardless of age, gender, sexual orientation, religious or ethnic identity, national origin, physical appearance, body size, or ability. We do not tolerate harassment of event participants in any form. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organizers.
 
 Please show respect for all attendees. In particular:
 
