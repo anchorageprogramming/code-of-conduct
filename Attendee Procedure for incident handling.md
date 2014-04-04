@@ -1,8 +1,8 @@
-This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
+
 
 1\. Keep in mind that all event staff will be wearing a conference t-shirt/button with the word “STAFF”
 on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident.
-All of our staff are informed of the [code of conduct policy](https://github.com/anchorageprogramming/code-of-conduct/blob/master/code_of_conduct.md) and guide
+All of our staff are informed of the code of conduct policy and guide
 for handling harassment at the conference. 
 
 2\. Report the harassment incident (preferably in writing) to a conference staff member. All reports
@@ -33,4 +33,6 @@ the offenders, and the community at large, to grow, learn, and become better. Ev
 that they be your first resource when reporting an incident, so that they may enforce
 the Code of Conduct and take quick action toward a resolution.
 
-If at all possible, all reports should be made directly to [name](mailto:email) (Event Coordinator).
+If at all possible, all reports should be made directly to [name](mailto:email) (Organizers).
+
+This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
